@@ -1,0 +1,25 @@
+* {
+    margin-left: auto;
+    margin-right: auto;
+    background-color:black;
+    color: white;
+}
+.image{
+    float: right;
+    width: 180px;
+}
+.body{
+    width:75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;   
+}
+table td, table th {
+    padding: 2px 20px 2px 20px;
+    border: 1px solid black;
+}
+
+.photo {
+    width: 180px;
+    float:right;
+}
